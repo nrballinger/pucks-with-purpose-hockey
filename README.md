@@ -1,1 +1,0 @@
-Static single-file Pucks With Purpose website. Upload index.html, README.md, and vercel.json at repository root. Vercel: Framework Other, Build Command blank, Install Command blank, Output Directory blank or .
